@@ -16,10 +16,10 @@ $ cd javascripting
 
 * Run javascripting and follow the chapters
 ```bash
-javascripting
+$ javascripting
 ```
 
 * OR to verify the existing solutions
 ```bash
-javascripting verify [FILE_NAME_HERE]
+$ javascripting verify [FILE_NAME_HERE]
 ```
